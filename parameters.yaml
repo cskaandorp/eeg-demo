@@ -1,0 +1,9 @@
+repository: https://github.com/UtrechtUniversity/GitMiller/tree/master/example
+username: <GITHUB USERNAME>
+password: <GITHUB PASSWORD>
+notebook: test.ipynb
+output: <PATH-TO-OUTPUT-FOLDER>
+
+papermill:
+  a: 10
+  b: 60
